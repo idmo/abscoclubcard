@@ -1,0 +1,69 @@
+{
+  "occasional": [
+  {
+    "clubCard": 60031551592107,
+    "department": "Beverages",
+    "aisle": "Water & Drinks",
+    "shelf": "Isotonic & Sports Drinks",
+    "Ups": 5200020807,
+    "upcDescription": "GATORADE G ORANGE",
+    "daysBetweenPurchase": 274,
+    "lastPurchased": "1/3/18",
+    "daysSinceLastPurchase": 377
+  },
+  {
+    "clubCard": 60031551592107,
+    "department": "Cookies, Snacks & Candy",
+    "aisle": "Crackers",
+    "shelf": "Variety & Multipacks",
+    "Ups": 4400004577,
+    "upcDescription": "NBC RITZ CRACKER SANDWICH WW & WHT CHED",
+    "daysBetweenPurchase": 245,
+    "lastPurchased": "3/9/18",
+    "daysSinceLastPurchase": 312
+  },
+  {
+    "clubCard": 60031551592107,
+    "department": "Cookies, Snacks & Candy",
+    "aisle": "Cookies",
+    "shelf": "Cookies",
+    "Ups": 4400004579,
+    "upcDescription": "NBC RITZ CRCKR SNDWCH EVERYTHING W/ CRM",
+    "daysBetweenPurchase": 245,
+    "lastPurchased": "3/9/18",
+    "daysSinceLastPurchase": 312
+  },
+  {
+    "clubCard": 60031551592107,
+    "department": "Beverages",
+    "aisle": "Water & Drinks",
+    "shelf": "Isotonic & Sports Drinks",
+    "Ups": 5200020806,
+    "upcDescription": "GATORADE G FRUIT PUNCH",
+    "daysBetweenPurchase": 274,
+    "lastPurchased": "1/3/18",
+    "daysSinceLastPurchase": 377
+  },
+  {
+    "clubCard": 60031551592107,
+    "department": "Cookies, Snacks & Candy",
+    "aisle": "Crackers",
+    "shelf": "Variety & Multipacks",
+    "Ups": 4400088211,
+    "upcDescription": "NBC RITZ CRACKERS WITH CHEESE",
+    "daysBetweenPurchase": 245,
+    "lastPurchased": "3/9/18",
+    "daysSinceLastPurchase": 312
+  },
+  {
+    "clubCard": 60031551592107,
+    "department": "Fruits & Vegetables",
+    "aisle": "Fresh Fruits",
+    "shelf": "Bananas",
+    "Ups": 4011,
+    "upcDescription": "BANANAS YELLOW TURNING",
+    "daysBetweenPurchase": 15,
+    "lastPurchased": "11/8/17",
+    "daysSinceLastPurchase": 433
+  }]
+}
