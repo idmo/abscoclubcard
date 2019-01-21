@@ -1,0 +1,201 @@
+{
+  "good": [
+  {
+    "clubCard": 48610433594,
+    "department": "Cookies, Snacks & Candy",
+    "aisle": "Popcorn, Nuts & Jerky",
+    "shelf": "Seeds",
+    "upc": 2620046172,
+    "upcDescription": "DAVID SUNFLOWER SEEDS ORIGINAL",
+    "daysBetweenPurchase": 43,
+    "lastPurchased": "12/15/18",
+    "daysSinceLastPurchase": 31
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Beverages",
+    "aisle": "Water & Drinks",
+    "shelf": "Drinks & Teas",
+    "upc": 8390000554,
+    "upcDescription": "GOLD PEAK ICED TEA SWEETENED",
+    "daysBetweenPurchase": 12,
+    "lastPurchased": "11/26/18",
+    "daysSinceLastPurchase": 50
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Bread & Bakery",
+    "aisle": "Bakery Bread",
+    "shelf": "Sandwich Bread",
+    "upc": 7167300111,
+    "upcDescription": "STROEHANN KING SANDWICH BREAD",
+    "daysBetweenPurchase": 9,
+    "lastPurchased": "12/24/18",
+    "daysSinceLastPurchase": 22
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "XXExclude",
+    "aisle": "XExcluded Items",
+    "shelf": "47-FROZEN VEGITABLES",
+    "upc": 2880029291,
+    "upcDescription": "HANOVER CORN SHOEPEG",
+    "daysBetweenPurchase": 44,
+    "lastPurchased": "12/24/18",
+    "daysSinceLastPurchase": 22
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Condiments, Spice & Bake",
+    "aisle": "Baking Ingredients",
+    "shelf": "Sugar",
+    "upc": 4920004550,
+    "upcDescription": "DOMINO SUGAR GRANULATED",
+    "daysBetweenPurchase": 24,
+    "lastPurchased": "11/26/18",
+    "daysSinceLastPurchase": 50
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Grains, Pasta & Sides",
+    "aisle": "Pasta & Pasta Sauce",
+    "shelf": "Dry Pasta",
+    "upc": 3340060135,
+    "upcDescription": "SAN GIORGIO ELBOW MACARONI",
+    "daysBetweenPurchase": 34,
+    "lastPurchased": "12/24/18",
+    "daysSinceLastPurchase": 22
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Dairy, Eggs & Cheese",
+    "aisle": "Eggs",
+    "shelf": "Eggs",
+    "upc": 2113003225,
+    "upcDescription": "LUCERNE EGGS LARGE AA",
+    "daysBetweenPurchase": 9,
+    "lastPurchased": "12/24/18",
+    "daysSinceLastPurchase": 22
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Beverages",
+    "aisle": "Soft Drinks & Seltzer",
+    "shelf": "Cola",
+    "upc": 1200080994,
+    "upcDescription": "PEPSI SODA FRIDGE MATE",
+    "daysBetweenPurchase": 9,
+    "lastPurchased": "12/24/18",
+    "daysSinceLastPurchase": 22
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Dairy, Eggs & Cheese",
+    "aisle": "Milk & Cream",
+    "shelf": "Milk",
+    "upc": 2113007002,
+    "upcDescription": "LUCERNE MILK WHOLE VIT D",
+    "daysBetweenPurchase": 15,
+    "lastPurchased": "12/24/18",
+    "daysSinceLastPurchase": 22
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Canned Goods & Soups",
+    "aisle": "Canned Vegetables",
+    "shelf": "Potatoes & Yams",
+    "upc": 1760004386,
+    "upcDescription": "BRUCES YAMS CUT",
+    "daysBetweenPurchase": 22,
+    "lastPurchased": "12/24/18",
+    "daysSinceLastPurchase": 22
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Beverages",
+    "aisle": "Soft Drinks & Seltzer",
+    "shelf": "Citrus Soda",
+    "upc": 1200080996,
+    "upcDescription": "MOUNTAIN DEW SODA FRIDGE MATE",
+    "daysBetweenPurchase": 12,
+    "lastPurchased": "12/20/18",
+    "daysSinceLastPurchase": 26
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Fruits & Vegetables",
+    "aisle": "Fresh Vegetables & Herbs",
+    "shelf": "Potatoes & Yams",
+    "upc": 2113053059,
+    "upcDescription": "POTATOES WHITE 5LB BAG",
+    "daysBetweenPurchase": 9,
+    "lastPurchased": "12/24/18",
+    "daysSinceLastPurchase": 22
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Dairy, Eggs & Cheese",
+    "aisle": "Butter & Sour Cream",
+    "shelf": "Margarine & Spreads",
+    "upc": 2740026499,
+    "upcDescription": "SHEDDS SPREAD COUNTRY CROCK TUB",
+    "daysBetweenPurchase": 35,
+    "lastPurchased": "12/15/18",
+    "daysSinceLastPurchase": 31
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Fruits & Vegetables",
+    "aisle": "Fresh Vegetables & Herbs",
+    "shelf": "Lettuce & Greens",
+    "upc": 3338365020,
+    "upcDescription": "LETTUCE ICEBERG",
+    "daysBetweenPurchase": 14,
+    "lastPurchased": "1/3/19",
+    "daysSinceLastPurchase": 12
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Meat & Seafood",
+    "aisle": "Beef",
+    "shelf": "Beef Whole Cuts & Roasts",
+    "upc": 20195400000,
+    "upcDescription": "CH BEEF CHUCK UNDER BLADE POT RST BNLS",
+    "daysBetweenPurchase": 22,
+    "lastPurchased": "12/23/18",
+    "daysSinceLastPurchase": 23
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Cookies, Snacks & Candy",
+    "aisle": "Cookies",
+    "shelf": "Cookies",
+    "upc": 4400004426,
+    "upcDescription": "NBC PINWHEELS COOKIE",
+    "daysBetweenPurchase": 14,
+    "lastPurchased": "12/15/18",
+    "daysSinceLastPurchase": 31
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Meat & Seafood",
+    "aisle": "Chicken & Turkey",
+    "shelf": "Chicken",
+    "upc": 20060600000,
+    "upcDescription": "PERDUE CHICKEN DRUMSTICK FR",
+    "daysBetweenPurchase": 47,
+    "lastPurchased": "12/27/18",
+    "daysSinceLastPurchase": 19
+  },
+  {
+    "clubCard": 48610433594,
+    "department": "Cookies, Snacks & Candy",
+    "aisle": "Cookies",
+    "shelf": "Cookies",
+    "upc": 4400003324,
+    "upcDescription": "NBC SNDWCH CKY GOLDEN OREO FAMILY SIZE",
+    "daysBetweenPurchase": 35,
+    "lastPurchased": "12/15/18",
+    "daysSinceLastPurchase": 31
+  }]
+}
