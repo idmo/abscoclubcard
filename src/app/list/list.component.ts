@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-import { myList } from '../../assets/data/shopping-list.json'; 
+import { list } from '../../assets/data/shopping-list.json'; 
 
 @Component({
   selector: 'app-list',
@@ -8,7 +8,7 @@ import { myList } from '../../assets/data/shopping-list.json';
   styleUrls: ['./list.component.scss']
 })
 export class ListComponent implements OnInit {
-  shoppingList = myList;
+  shoppingList = list;
   constructor() { }
 
   ngOnInit() {
