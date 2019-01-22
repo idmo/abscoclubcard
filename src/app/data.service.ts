@@ -30,9 +30,9 @@ export class DataService {
   for each one we want to use. The reduce and assign fuctions create new arrays with
   unique instances of the key values.
   */
-  departments = Object.keys(this.clubcard.reduce((acc,cur)=>Object.assign(acc,{[cur.department]:cur}),{}));
-  aisles = Object.keys(this.clubcard.reduce((acc,cur)=>Object.assign(acc,{[cur.aisle]:cur}),{}));
-  shelves = Object.keys(this.clubcard.reduce((acc,cur)=>Object.assign(acc,{[cur.shelf]:cur}), {}));
+  departments = Object.keys(this.clubcard.reduce((acc,cur)=>Object.assign(acc,{[cur.department]:cur}),{})).sort();
+  aisles = Object.keys(this.clubcard.reduce((acc,cur)=>Object.assign(acc,{[cur.aisle]:cur}),{})).sort();
+  shelves = Object.keys(this.clubcard.reduce((acc,cur)=>Object.assign(acc,{[cur.shelf]:cur}), {})).sort();
 
   last30days = this.clubcard.filter(days => days.daysSinceLastPurchase < 30);
   over30days = this.clubcard.filter(days => days.daysSinceLastPurchase > 30);

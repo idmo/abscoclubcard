@@ -19,6 +19,9 @@ import { RecipesComponent } from './recipes/recipes.component';
 import { SearchComponent } from './search/search.component';
 import { HomeComponent } from './home/home.component';
 import { SubnavComponent } from './subnav/subnav.component';
+import { ShelvesComponent } from './shelves/shelves.component';
+import { AislesComponent } from './aisles/aisles.component';
+import { DepartmentsComponent } from './departments/departments.component';
 
 
 @NgModule({
@@ -35,7 +38,10 @@ import { SubnavComponent } from './subnav/subnav.component';
     RecipesComponent,
     SearchComponent,
     HomeComponent,
-    SubnavComponent
+    SubnavComponent,
+    ShelvesComponent,
+    AislesComponent,
+    DepartmentsComponent
   ],
   imports: [
     BrowserModule,

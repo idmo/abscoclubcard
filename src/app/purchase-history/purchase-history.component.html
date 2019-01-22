@@ -5,40 +5,7 @@
     </div>
   </div>
   <div class="row mt-3">
-    <div class="col-12 col-lg-3">
-      <div class="mt-3 mb-3"><strong>Purchase History</strong></div>
-      <ul class="list-group">
-        <li class="list-group-item">
-          <a href="#">Frequent Purchases <span class="badge">{{ data.frequentPurchases.length }}</span></a>
-        </li>
-        <li class="list-group-item">
-          <a href="#">Last 30 Days <span class="badge">{{ data.last30days.length }}</span></a>
-        </li>
-        <li class="list-group-item">
-          <a href="#">Over 30 Days <span class="badge">{{ data.over30days.length }}</span></a>
-        </li>
-      </ul>
-      <div class="mt-2 mb-2"><strong>Departments</strong><span class="badge">{{ data.departments.length }}</span></div>
-      <ul class="list-group">
-        <li class="list-group-item" *ngFor="let department of data.departments; let i = index">{{ department }}</li>
-        <li class="list-group-item"><a href="#">Show All</a></li>
-      </ul>
-      <div class="mt-2 mb-2"><strong>Aisles</strong></div>
-      <ul class="list-group">
-        <li class="list-group-item" *ngFor="let aisle of data.aisles; let i = index;">
-          {{ aisle }}
-        </li>
-        <li class="list-group-item"><a href="#">Show All</a></li>
-      </ul>
-      <div class="mt-2 mb-2"><strong>Shelves</strong></div>
-      <ul class="list-group">
-        <li class="list-group-item" *ngFor="let shelf of data.shelves; let i = index;">
-          {{ shelf }}
-        </li>
-      </ul>
-    </div>
-    <div class="col-12 col-lg-9">
-      <!-- Try Tabs / Pills -->
+    <div class="col-12">
       <div>
         <tabset>
           <tab heading="Frequent ({{ data.frequentPurchases.length }})" id="tab1">
@@ -123,6 +90,4 @@
           </tab>
         </tabset>
       </div>
-      <!-- End Tabs -->
-
     </div>

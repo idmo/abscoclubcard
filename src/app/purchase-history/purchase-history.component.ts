@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import { AislesComponent } from '../aisles/aisles.component';
 import { DataService } from '../data.service';
 
 // JSON files
@@ -17,13 +17,21 @@ import { occasional } from '../../assets/data/occasional.json';
 })
 export class PurchaseHistoryComponent implements OnInit {
 
-  title = 'clubcard';
-  clubCardMember = elite;
-  isCollapsed: boolean;
-  
+  isCollapsed = true;
+  message: string;
+
+  collapsed(): void {
+    this.message = '+';
+    console.log(this.message);
+  }
+
+  expanded(): void {
+    this.message = '-';
+  }
+
+
 
   constructor(private data: DataService) {
-    console.log(this.data.departments);
     
    }
    
