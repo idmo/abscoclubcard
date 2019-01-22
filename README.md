@@ -36,6 +36,7 @@ This is  prototype that uses ClubCard data to display a purhcase history. It use
 * Change the name of the file and select the download button
 * Place your JSON files into the "/assets" folder of your project.
 
+
 ### Identitfy each JSON File
 In order to use the import statement with the JSON files, you will need to add a name to the root level of each. 
 * Select the JSON file

@@ -28,6 +28,7 @@ export class PracticeComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log('Good');
   }
 
 }

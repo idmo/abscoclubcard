@@ -1,0 +1,16 @@
+<div class="container">
+	<h3>My Shopping Cart</h3>
+
+<table class="table">
+	<tr *ngFor="let item of myCart; let i = index;">
+		<td>{{ i + 1 }}</td>
+		<td>
+			{{ item.productName }} <br>
+			<small>{{ item.productDescription }}</small>
+		</td>
+		<td>${{ item.productRegularPrice }}</td>
+		<td><input type="number" value="{{ item.productCoupon }}"></td>
+		<td><i class="fa fa-trash"></i></td>
+	</tr>
+</table>
+</div>

@@ -1,0 +1,17 @@
+<div class="container">
+  <h3>My Shopping List</h3>
+  <p>Created on <em>January 21, 2019</em></p>
+  <div class="input-group mb-3">
+  <input type="text" class="form-control" placeholder="Add an Item" aria-label="+" aria-describedby="basic-addon2">
+  <div class="input-group-append">
+    <span class="input-group-text" id="basic-addon2"><i class="fa fa-plus-square"></i></span>
+  </div>
+</div>
+  <table class="table">
+  	<tr *ngFor="let item of shoppingList; let i = index">
+  		<td>{{ i + 1 }}</td>
+  		<td>{{ item.productName}}</td>
+  		<td><input type="number" value="{{ item.productCoupon }}"></td>
+  	</tr>
+  </table>
+</div>
